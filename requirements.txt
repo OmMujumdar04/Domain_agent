@@ -1,0 +1,5 @@
+langgraph 
+langchain-groq 
+tldextract 
+dnspython 
+python-dotenv
